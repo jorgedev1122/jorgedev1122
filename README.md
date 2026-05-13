@@ -21,12 +21,12 @@
 
 #### 💬 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode,python" />
 </p>
 
 #### 🧩 Currently Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,python" />
+  <img src="https://skillicons.dev/icons?i=react,next.js,node.js" />
 </p>
 
 ---
